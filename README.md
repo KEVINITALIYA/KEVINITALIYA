@@ -5,8 +5,6 @@
 
 > 🌱 I’m currently learning **Node.Js**
 
-> 👨‍💻 All of my projects are available at [www.kevinitaliya.com](www.kevinitaliya.com)
-
 > 📝 I regularly write articles on [https://theayurrhings.com](https://theayurrhings.com)
 
 > 💬 Ask me about **Javascript / React / Vue / Angular**
