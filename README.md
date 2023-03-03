@@ -28,6 +28,7 @@
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](http://kevinitaliya.com)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](http://kevinitaliya.com)
+[<img align="left" alt="TailwindCSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />](http://kevinitaliya.com)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](http://kevinitaliya.com)
 [<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />](http://kevinitaliya.com)
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](http://kevinitaliya.com)
@@ -45,8 +46,6 @@
 ### Github Stats:
 
 [<img align="left" alt="Haydher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kevinitaliya&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide=issues,contribs" />](http://kevinitaliya.com)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinitaliya&layout=compact)](http://kevinitaliya.com)
 
 [website]: http://kevinitaliya.com
 [linkedin]: https://linkedin.com/in/kevin-italiya-8458b416a/
