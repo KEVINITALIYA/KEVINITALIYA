@@ -11,9 +11,7 @@
 
 > 📫 How to reach me **hello@kevinitaliya.com**
 
-> 📄 Know about my experiences [www.kevinitaliya.com](www.kevinitaliya.com)
-
-> ⚡ Fun fact **Lazy but I am a programmer!**
+> 📄 Know about my experiences http://kevinitaliya.com
 
 ### Connect with me:
 
