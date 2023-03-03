@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Italiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a seasoned frontend developer from India with over 5+ years of experience working with cutting-edge frontend technologies.</h3>
 
 [![Website](https://img.shields.io/website?label=kevinitaliya&style=for-the-badge&url=http%3A%2F%2Fkevinitaliya.com)](http://kevinitaliya.com)
 
