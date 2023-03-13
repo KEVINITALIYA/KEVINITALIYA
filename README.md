@@ -7,7 +7,7 @@
 
 > 🌱 I’m currently working on  https://naturetouch.theayurthings.com/
 
-> 📝 I regularly write articles on [https://theayurrhings.com](https://theayurrhings.com)
+> 📝 I regularly write articles on https://theayurthings.com/post/
 
 > 💬 Ask me about **Javascript / React / Vue / Angular**
 
