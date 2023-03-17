@@ -5,7 +5,7 @@
 
 > 🌱 I’m currently learning **Node.Js**
 
-> 🌱 I’m currently working on  https://naturetouch.theayurthings.com/
+> 🌱 I’m currently working on  https://puresoundscapes.com/
 
 > 📝 I regularly write articles on https://theayurthings.com/post/
 
