@@ -7,7 +7,7 @@
 
 > 🌱 I’m currently working on  https://puresoundscapes.com/
 
-> 📝 I regularly write articles on https://theayurthings.com/post/
+> 📝 I regularly write articles on https://theayurthings.com/
 
 > 💬 Ask me about **Javascript / React / Vue / Angular**
 
